@@ -1,0 +1,11 @@
+/*
+	@theme Twilight
+	@override-placeholders html, xml, sourcecode.js
+*/
+
+@base {
+	color: #000000;
+	background-color: #FFFFFF;
+	insertion-point-color: #000000;
+	selection-background-color: default;
+}
